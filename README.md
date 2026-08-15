@@ -94,9 +94,9 @@ The characteristics of each implementation are described.
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,042 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,043 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
-[vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 504 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
+[vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 505 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
 [xiaohan2012/twitter-sent-dnn](https://github.com/xiaohan2012/twitter-sent-dnn) ⭐ 276 | 🐛 10 | 🌐 Python | 📅 2022-06-21: Supervised Machine Learning, Deep Learning, Convolutional Neural Network. [\[paper\]](http://phd.nal.co/papers/Kalchbrenner_DCNN_ACL14)
 
@@ -121,7 +121,7 @@ position in the social network to aide sentiment analysis. [\[paper\]](https://a
 
 ### Golang
 
-[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,615 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
+[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,614 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
 
 ### Ruby
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

@@ -80,7 +80,7 @@ The characteristics of each implementation are described.
 
 ### NodeJS
 
-[thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,677 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
+[thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,678 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
 
 [thinkroth/Sentimental](https://github.com/thinkroth/Sentimental) ⭐ 497 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-22 Lexical, Dictionary-based, AFINN-based.
 
@@ -94,13 +94,13 @@ The characteristics of each implementation are described.
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,043 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,042 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
-[vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 505 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
+[vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 506 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
 [xiaohan2012/twitter-sent-dnn](https://github.com/xiaohan2012/twitter-sent-dnn) ⭐ 276 | 🐛 10 | 🌐 Python | 📅 2022-06-21: Supervised Machine Learning, Deep Learning, Convolutional Neural Network. [\[paper\]](http://phd.nal.co/papers/Kalchbrenner_DCNN_ACL14)
 
-[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,652 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
+[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,653 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 
 [kevincobain2000/sentiment\_classifier](https://github.com/kevincobain2000/sentiment_classifier) ⭐ 170 | 🐛 0 | 🌐 OpenEdge ABL | 📅 2022-04-05: Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

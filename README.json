@@ -1,68 +1,7 @@
 {
-  "items": [
-    {
-      "description": "The goal of this repository is to provide adequate links for scholars who want to research in this domain; and at the same time, be sufficiently accessible for developers who want to integrate sentiment analysis into their applications.",
-      "items": [],
-      "title": "Objective"
-    },
-    {
-      "description": "Liu, Bing. \"Sentiment analysis and opinion mining.\" Synthesis lectures on human language technologies 5.1 (2012): 1-167. [pdf]\nVinodhini, G., and R. M. Chandrasekaran. \"Sentiment analysis and opinion mining: a survey.\" International Journal 2.6 (2012): 282-292. [pdf]\nMedhat, Walaa, Ahmed Hassan, and Hoda Korashy. \"Sentiment analysis algorithms and applications: A survey.\" Ain Shams Engineering Journal 5.4 (2014): 1093-1113. [pdf]",
-      "items": [],
-      "title": "Survey Papers"
-    },
-    {
-      "description": "Wang, Sida, and Christopher D. Manning. \"Baselines and bigrams: Simple, good sentiment and topic classification.\" Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics: Short Papers-Volume 2. Association for Computational Linguistics, 2012. [pdf]\nCambria, Erik, Daniel Olsher, and Dheeraj Rajagopal. \"SenticNet 3: a common and common-sense knowledge base for cognition-driven sentiment analysis.\" Proceedings of the twenty-eighth AAAI conference on artificial intelligence. AAAI Press, 2014. [pdf]",
-      "items": [],
-      "title": "Baseline Systems"
-    },
-    {
-      "description": "AFINN: List of English words rated for valence [web]\nSentiWordNet: Lexical resource devised for supporting sentiment analysis. [web] [paper]\nGloVe: Algorithm for obtaining word vectors. Pretrained word vectors available for download [web] [paper]\nSemEval14-Task4: Annotated aspects and sentiments of laptops and restaurants reviews. [web] [paper]\nStanford Sentiment Treebank: Sentiment dataset with fine-grained sentiment annotations [web] [paper]\nMultidimensional Lexicon for Interpersonal Stancetaking [web] [paper]",
-      "items": [],
-      "title": "Resources and Corpora"
-    },
-    {
-      "description": "The characteristics of each implementation are described.\nCaveats: A key problem in sentiment analysis is its sensitivity to the domain from which either training data is sourced, or on which a sentiment lexicon is built. [♠] Be careful assuming off-the-shelf implementations will work for your problem, make sure to look at the model assumptions and validate whether they’re accurate on your own domain [♦].",
-      "items": [],
-      "title": "Open Source Implementations"
-    },
-    {
-      "description": "thisandagain/sentiment: Lexical, Dictionary-based, AFINN-based.\nthinkroth/Sentimental Lexical, Dictionary-based, AFINN-based.",
-      "items": [],
-      "title": "NodeJS"
-    },
-    {
-      "description": "LingPipe: Lexical, Corpus-based, Supervised Machine Learning\nCoreNLP: Supervised Machine Learning, Deep Learning\nASUM: Unsupervised Machine Learning, Latent Dirichlet Allocation. [paper]",
-      "items": [],
-      "title": "Java"
-    },
-    {
-      "description": "nltk: VADER sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [paper]\nvivekn/sentiment: Supervised Machine Learning, Naive Bayes Classifier. [paper]\nxiaohan2012/twitter-sent-dnn: Supervised Machine Learning, Deep Learning, Convolutional Neural Network. [paper]\nabdulfatir/twitter-sentiment-analysis: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.\nkevincobain2000/sentiment_classifier: Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.\npedrobalage/SemevalAspectBasedSentimentAnalysis: Aspect-Based, Supervised Machine Learning, Conditional Random Field.\nganeshjawahar/mem_absa: Aspect-Based, Supervised Machine Learning, Deep Learning, Attention-based, External Memory. [paper]\nopenai/generating-reviews-discovering-sentiment: Deep Learning, byte mLSTM [paper]\nyiyang-gt/social-attention: Deep Learning, Attention-based. Uses authors' position in the social network to aide sentiment analysis. [paper].\nthunlp/NSC: Deep Learning, Attention-based. Uses user and production information.[paper].",
-      "items": [],
-      "title": "Python"
-    },
-    {
-      "description": "timjurka/sentiment: Supervised Machine Learning, Naive Bayes Classifier.",
-      "items": [],
-      "title": "R"
-    },
-    {
-      "description": "cdipaolo/sentiment: Supervised Machine Learning, Naive Bayes Classifier. Based on cdipaolo/goml.",
-      "items": [],
-      "title": "Golang"
-    },
-    {
-      "description": "malavbhavsar/sentimentalizer: Lexical, Dictionary-based.\n7compass/sentimental: Lexical, Dictionary-based.",
-      "items": [],
-      "title": "Ruby"
-    },
-    {
-      "description": "amrish7/Dragon: Supervised Machine Learning, Naive Bayes Classifier.",
-      "items": [],
-      "title": "CSharp"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T08:06:36.371Z",
+    "last_updated": "2026-08-19T08:08:02.178Z",
     "original_repository": "xiamx/awesome-sentiment-analysis",
     "original_repository_sha": "11ef0286150182a22975721900b076da063ca28d",
     "enhanced_repository": "enhansome/enhansome-sentiment-analysis",

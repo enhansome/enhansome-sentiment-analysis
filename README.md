@@ -94,7 +94,7 @@ The characteristics of each implementation are described.
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,046 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,045 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
 [vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 506 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

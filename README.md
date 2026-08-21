@@ -88,13 +88,13 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,104 | 🐛 182 | 🌐 Java | 📅 2026-06-28: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,102 | 🐛 182 | 🌐 Java | 📅 2026-08-21: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,045 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,047 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
 [vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 506 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

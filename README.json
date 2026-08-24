@@ -1,7 +1,296 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The characteristics of each implementation are described.\nCaveats: A key problem in sentiment analysis is its sensitivity to the domain from which either training data is sourced, or on which a sentiment lexicon is built. [♠] Be careful assuming off-the-shelf implementations will work for your problem, make sure to look at the model assumptions and validate whether they’re accurate on your own domain [♦].",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "thisandagain/sentiment",
+              "description": "Lexical, Dictionary-based, AFINN-based.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6119227,
+                "language": "JavaScript",
+                "last_commit": "2020-05-18T13:55:58Z",
+                "owner": "thisandagain",
+                "repo": "sentiment",
+                "stars": 2678
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thinkroth/Sentimental",
+              "description": "Lexical, Dictionary-based, AFINN-based.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3663745,
+                "language": "JavaScript",
+                "last_commit": "2017-11-22T16:14:07Z",
+                "owner": "thinkroth",
+                "repo": "Sentimental",
+                "stars": 496
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NodeJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CoreNLP",
+              "description": "Supervised Machine Learning, Deep Learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11008076,
+                "language": "Java",
+                "last_commit": "2026-08-24T07:05:27Z",
+                "owner": "stanfordnlp",
+                "repo": "CoreNLP",
+                "stars": 10102
+              }
+            }
+          ],
+          "description": "LingPipe: Lexical, Corpus-based, Supervised Machine Learning\nASUM: Unsupervised Machine Learning, Latent Dirichlet Allocation. [paper]",
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vivekn/sentiment",
+              "description": "Supervised Machine Learning, Naive Bayes Classifier. [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6291757,
+                "language": "Python",
+                "last_commit": "2020-10-01T02:12:26Z",
+                "owner": "vivekn",
+                "repo": "sentiment",
+                "stars": 506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xiaohan2012/twitter-sent-dnn",
+              "description": "Supervised Machine Learning, Deep Learning, Convolutional Neural Network. [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29187367,
+                "language": "Python",
+                "last_commit": "2022-06-21T21:07:28Z",
+                "owner": "xiaohan2012",
+                "repo": "twitter-sent-dnn",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abdulfatir/twitter-sentiment-analysis",
+              "description": "Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106210027,
+                "language": "Python",
+                "last_commit": "2023-02-27T09:08:55Z",
+                "owner": "abdulfatir",
+                "repo": "twitter-sentiment-analysis",
+                "stars": 1653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kevincobain2000/sentiment_classifier",
+              "description": "Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3332898,
+                "language": "OpenEdge ABL",
+                "last_commit": "2022-04-05T01:04:07Z",
+                "owner": "kevincobain2000",
+                "repo": "sentiment_classifier",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pedrobalage/SemevalAspectBasedSentimentAnalysis",
+              "description": "Aspect-Based, Supervised Machine Learning, Conditional Random Field.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20021753,
+                "language": "Python",
+                "last_commit": "2014-05-21T14:11:12Z",
+                "owner": "pedrobalage",
+                "repo": "SemevalAspectBasedSentimentAnalysis",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ganeshjawahar/mem_absa",
+              "description": "Aspect-Based, Supervised Machine Learning, Deep Learning, Attention-based, External Memory. [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74471781,
+                "language": "Python",
+                "last_commit": "2018-03-10T10:47:38Z",
+                "owner": "ganeshjawahar",
+                "repo": "mem_absa",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openai/generating-reviews-discovering-sentiment",
+              "description": "Deep Learning, byte mLSTM [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 87389212,
+                "language": "Python",
+                "last_commit": "2023-06-28T23:45:25Z",
+                "owner": "openai",
+                "repo": "generating-reviews-discovering-sentiment",
+                "stars": 1521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yiyang-gt/social-attention",
+              "description": "Deep Learning, Attention-based. Uses authors' position in the social network to aide sentiment analysis. [paper].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77946141,
+                "language": "Python",
+                "last_commit": "2017-04-25T03:27:10Z",
+                "owner": "yiyang-gt",
+                "repo": "social-attention",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thunlp/NSC",
+              "description": "Deep Learning, Attention-based. Uses user and production information.[paper].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66908197,
+                "language": "Python",
+                "last_commit": "2018-04-13T13:39:11Z",
+                "owner": "thunlp",
+                "repo": "NSC",
+                "stars": 287
+              }
+            }
+          ],
+          "description": "nltk: VADER sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [paper]",
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdipaolo/sentiment",
+              "description": "Supervised Machine Learning, Naive Bayes Classifier. Based on cdipaolo/goml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39922514,
+                "language": "Go",
+                "last_commit": "2020-06-17T00:24:24Z",
+                "owner": "cdipaolo",
+                "repo": "sentiment",
+                "stars": 282
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Golang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "malavbhavsar/sentimentalizer",
+              "description": "Lexical, Dictionary-based.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 6522554,
+                "language": "Ruby",
+                "last_commit": "2023-05-01T16:43:30Z",
+                "owner": "malavbhavsar",
+                "repo": "sentimentalizer",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7compass/sentimental",
+              "description": "Lexical, Dictionary-based.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9105346,
+                "language": "Ruby",
+                "last_commit": "2019-05-10T17:37:24Z",
+                "owner": "7compass",
+                "repo": "sentimental",
+                "stars": 465
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "amrish7/Dragon",
+              "description": "Supervised Machine Learning, Naive Bayes Classifier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17355400,
+                "language": "C#",
+                "last_commit": "2015-01-21T05:03:13Z",
+                "owner": "amrish-ravidas",
+                "repo": "Dragon",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSharp"
+        }
+      ],
+      "title": "Open Source Implementations"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T08:25:10.444Z",
+    "last_updated": "2026-08-24T14:19:53.335Z",
     "original_repository": "xiamx/awesome-sentiment-analysis",
     "original_repository_id": 82748196,
     "original_repository_sha": "11ef0286150182a22975721900b076da063ca28d",

@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-24T07:05:27Z",
+                "last_commit": "2026-08-25T05:49:38Z",
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10102
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:53.335Z",
+    "last_updated": "2026-08-25T06:08:52.259Z",
     "original_repository": "xiamx/awesome-sentiment-analysis",
     "original_repository_id": 82748196,
     "original_repository_sha": "11ef0286150182a22975721900b076da063ca28d",

@@ -290,9 +290,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:22:54.567Z",
-    "original_repository": "xiamx/awesome-sentiment-analysis",
-    "original_repository_id": 82748196,
+    "last_updated": "2026-08-27T12:03:20.062Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 82748196,
+      "language": null,
+      "last_commit": "2018-10-10T19:12:00Z",
+      "owner": "xiamx",
+      "repo": "awesome-sentiment-analysis",
+      "stars": 931
+    },
     "original_repository_sha": "11ef0286150182a22975721900b076da063ca28d",
     "enhanced_repository": "enhansome/enhansome-sentiment-analysis",
     "enhanced_repository_description": null,

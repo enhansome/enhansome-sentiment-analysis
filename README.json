@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AFINN-based sentiment analysis for Node.js.",
+                "homepage": null,
                 "id": 6119227,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-05-18T13:55:58Z",
+                "open_issues": 16,
                 "owner": "thisandagain",
                 "repo": "sentiment",
-                "stars": 2678
+                "stars": 2678,
+                "topics": [
+                  "afinn",
+                  "analysis",
+                  "javascript",
+                  "nlp",
+                  "sentiment",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -28,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sentiment analysis module for node.js",
+                "homepage": null,
                 "id": 3663745,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-22T16:14:07Z",
+                "open_issues": 5,
                 "owner": "thinkroth",
                 "repo": "Sentimental",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             }
@@ -51,12 +68,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
+                "homepage": "http://stanfordnlp.github.io/CoreNLP/",
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-28T17:33:57Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T02:44:17Z",
+                "open_issues": 182,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10102
+                "stars": 10102,
+                "topics": [
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-parsing",
+                  "stanford-nlp"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             }
@@ -74,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentiment analysis using machine learning techniques.",
+                "homepage": null,
                 "id": 6291757,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-10-01T02:12:26Z",
+                "open_issues": 8,
                 "owner": "vivekn",
                 "repo": "sentiment",
-                "stars": 506
+                "stars": 506,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -90,12 +123,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Neural Network for Sentiment Analysis on Twitter",
+                "homepage": null,
                 "id": 29187367,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-21T21:07:28Z",
+                "open_issues": 10,
                 "owner": "xiaohan2012",
                 "repo": "twitter-sent-dnn",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "deep-neural-networks",
+                  "sentiment-analysis",
+                  "theano",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -106,12 +149,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.",
+                "homepage": null,
                 "id": 106210027,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-27T09:08:55Z",
+                "open_issues": 22,
                 "owner": "abdulfatir",
                 "repo": "twitter-sentiment-analysis",
-                "stars": 1653
+                "stars": 1653,
+                "topics": [
+                  "cnn",
+                  "deeplearning",
+                  "keras",
+                  "lstm",
+                  "machine-learning",
+                  "python",
+                  "sentiment-analysis",
+                  "sentiment-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -122,12 +179,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentiment Classification using Word Sense Disambiguation",
+                "homepage": null,
                 "id": 3332898,
                 "language": "OpenEdge ABL",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-05T01:04:07Z",
+                "open_issues": 0,
                 "owner": "kevincobain2000",
                 "repo": "sentiment_classifier",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "machine-learning",
+                  "sentiment-analysis",
+                  "word-sense-disambiguation",
+                  "wsd"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -138,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "System that participated in Semeval 2014 task 4: Aspect Based Sentiment Analysis",
+                "homepage": "http://www.pedrobalage.com/show.php?key=BalageFilho2014NILCUSPAspectExtraction&bib=bibtex.bib",
                 "id": 20021753,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2014-05-21T14:11:12Z",
+                "open_issues": 2,
                 "owner": "pedrobalage",
                 "repo": "SemevalAspectBasedSentimentAnalysis",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -154,12 +226,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aspect Based Sentiment Analysis using End-to-End Memory Networks",
+                "homepage": null,
                 "id": 74471781,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-03-10T10:47:38Z",
+                "open_issues": 16,
                 "owner": "ganeshjawahar",
                 "repo": "mem_absa",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "aspect-based",
+                  "classification",
+                  "memory-networks",
+                  "neural-networks",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -170,12 +253,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for \"Learning to Generate Reviews and Discovering Sentiment\"",
+                "homepage": "https://arxiv.org/abs/1704.01444",
                 "id": 87389212,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-28T23:45:25Z",
+                "open_issues": 32,
                 "owner": "openai",
                 "repo": "generating-reviews-discovering-sentiment",
-                "stars": 1521
+                "stars": 1521,
+                "topics": [
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -186,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the TACL paper \"Overcoming Language Variation in Sentiment Analysis with Social Attention\"",
+                "homepage": null,
                 "id": 77946141,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-25T03:27:10Z",
+                "open_issues": 0,
                 "owner": "yiyang-gt",
                 "repo": "social-attention",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -202,12 +297,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Sentiment Classification",
+                "homepage": null,
                 "id": 66908197,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-04-13T13:39:11Z",
+                "open_issues": 1,
                 "owner": "thunlp",
                 "repo": "NSC",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             }
@@ -225,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Sentiment Analysis in Golang",
+                "homepage": null,
                 "id": 39922514,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-06-17T00:24:24Z",
+                "open_issues": 4,
                 "owner": "cdipaolo",
                 "repo": "sentiment",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             }
@@ -248,12 +355,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sentiment analysis with Machine Learning",
+                "homepage": null,
                 "id": 6522554,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-05-01T16:43:30Z",
+                "open_issues": 8,
                 "owner": "malavbhavsar",
                 "repo": "sentimentalizer",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "machine-learning",
+                  "naive-bayes",
+                  "rails",
+                  "ruby",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             },
@@ -264,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple sentiment analysis with Ruby",
+                "homepage": null,
                 "id": 9105346,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-05-10T17:37:24Z",
+                "open_issues": 5,
                 "owner": "7compass",
                 "repo": "sentimental",
-                "stars": 465
+                "stars": 465,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             }
@@ -287,12 +410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# implementation for Naive Bayes sentiment classification engine (evidence files included)",
+                "homepage": "http://solvy.cloudapp.net/",
                 "id": 17355400,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2015-01-21T05:03:13Z",
+                "open_issues": 1,
                 "owner": "amrish-ravidas",
                 "repo": "Dragon",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
             }
@@ -306,15 +434,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:35:19.918Z",
+    "last_updated": "2026-08-29T04:37:54.662Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",
+      "homepage": null,
       "id": 82748196,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2018-10-10T19:12:00Z",
+      "open_issues": 2,
       "owner": "xiamx",
       "repo": "awesome-sentiment-analysis",
-      "stars": 931
+      "stars": 931,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "linguistics",
+        "machine-learning",
+        "nlp",
+        "python",
+        "sentiment-analysis",
+        "supervised-machine-learning"
+      ]
     },
     "original_repository_sha": "11ef0286150182a22975721900b076da063ca28d",
     "enhanced_repository": "enhansome/enhansome-sentiment-analysis",

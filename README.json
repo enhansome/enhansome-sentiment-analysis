@@ -262,7 +262,7 @@
                 "open_issues": 32,
                 "owner": "openai",
                 "repo": "generating-reviews-discovering-sentiment",
-                "stars": 1521,
+                "stars": 1520,
                 "topics": [
                   "paper"
                 ]
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:15:02.992Z",
+    "last_updated": "2026-09-04T12:15:53.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

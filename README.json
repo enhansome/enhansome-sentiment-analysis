@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "thisandagain",
                 "repo": "sentiment",
-                "stars": 2678,
+                "stars": 2677,
                 "topics": [
                   "afinn",
                   "analysis",
@@ -77,7 +77,7 @@
                 "open_issues": 182,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10111,
+                "stars": 10110,
                 "topics": [
                   "named-entity-recognition",
                   "natural-language-processing",
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:23:24.846Z",
+    "last_updated": "2026-09-06T11:44:45.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

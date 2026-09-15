@@ -73,8 +73,8 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T08:35:56Z",
-                "open_issues": 182,
+                "last_commit": "2026-09-15T08:10:16Z",
+                "open_issues": 183,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10115,
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:24:39.910Z",
+    "last_updated": "2026-09-15T12:53:40.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

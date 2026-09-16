@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "thisandagain",
                 "repo": "sentiment",
-                "stars": 2677,
+                "stars": 2676,
                 "topics": [
                   "afinn",
                   "analysis",
@@ -73,7 +73,7 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T08:10:16Z",
+                "last_commit": "2026-09-16T03:56:36Z",
                 "open_issues": 183,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:53:40.719Z",
+    "last_updated": "2026-09-16T12:49:53.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

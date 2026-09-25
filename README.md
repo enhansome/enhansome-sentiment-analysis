@@ -88,19 +88,19 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,121 | 🐛 186 | 🌐 Java | 📅 2026-09-24: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,121 | 🐛 191 | 🌐 Java | 📅 2026-09-25: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,078 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,077 | 🐛 56 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
 [vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 507 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
 [xiaohan2012/twitter-sent-dnn](https://github.com/xiaohan2012/twitter-sent-dnn) ⭐ 276 | 🐛 10 | 🌐 Python | 📅 2022-06-21: Supervised Machine Learning, Deep Learning, Convolutional Neural Network. [\[paper\]](http://phd.nal.co/papers/Kalchbrenner_DCNN_ACL14)
 
-[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,653 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
+[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,652 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 
 [kevincobain2000/sentiment\_classifier](https://github.com/kevincobain2000/sentiment_classifier) ⭐ 170 | 🐛 0 | 🌐 OpenEdge ABL | 📅 2022-04-05: Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

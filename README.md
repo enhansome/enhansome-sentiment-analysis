@@ -113,7 +113,7 @@ The characteristics of each implementation are described.
 [yiyang-gt/social-attention](https://github.com/yiyang-gt/social-attention) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2017-04-25: Deep Learning, Attention-based. Uses authors'
 position in the social network to aide sentiment analysis. [\[paper\]](https://arxiv.org/pdf/1511.06052.pdf).
 
-[thunlp/NSC](https://github.com/thunlp/NSC) ⭐ 287 | 🐛 1 | 🌐 Python | 📅 2018-04-13: Deep Learning, Attention-based. Uses user and production information.[\[paper\]](http://anthology.aclweb.org/D/D16/D16-1171.pdf).
+[thunlp/NSC](https://github.com/thunlp/NSC) ⭐ 286 | 🐛 1 | 🌐 Python | 📅 2018-04-13: Deep Learning, Attention-based. Uses user and production information.[\[paper\]](http://anthology.aclweb.org/D/D16/D16-1171.pdf).
 
 ### R
 
@@ -121,7 +121,7 @@ position in the social network to aide sentiment analysis. [\[paper\]](https://a
 
 ### Golang
 
-[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,615 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
+[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,616 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
 
 ### Ruby
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

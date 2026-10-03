@@ -88,7 +88,7 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,121 | 🐛 195 | 🌐 Java | 📅 2026-10-01: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,122 | 🐛 195 | 🌐 Java | 📅 2026-10-02: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

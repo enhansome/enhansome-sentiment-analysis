@@ -80,7 +80,7 @@ The characteristics of each implementation are described.
 
 ### NodeJS
 
-[thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,678 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
+[thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,679 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
 
 [thinkroth/Sentimental](https://github.com/thinkroth/Sentimental) ⭐ 497 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-22 Lexical, Dictionary-based, AFINN-based.
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

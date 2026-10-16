@@ -77,7 +77,7 @@
                 "open_issues": 195,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10121,
+                "stars": 10122,
                 "topics": [
                   "named-entity-recognition",
                   "natural-language-processing",
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:51:30.629Z",
+    "last_updated": "2026-10-16T12:44:20.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

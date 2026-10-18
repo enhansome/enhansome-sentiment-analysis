@@ -82,13 +82,13 @@ The characteristics of each implementation are described.
 
 [thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,679 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
 
-[thinkroth/Sentimental](https://github.com/thinkroth/Sentimental) ⭐ 496 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-22 Lexical, Dictionary-based, AFINN-based.
+[thinkroth/Sentimental](https://github.com/thinkroth/Sentimental) ⭐ 495 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-22 Lexical, Dictionary-based, AFINN-based.
 
 ### Java
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,123 | 🐛 195 | 🌐 Java | 📅 2026-10-06: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,122 | 🐛 195 | 🌐 Java | 📅 2026-10-06: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

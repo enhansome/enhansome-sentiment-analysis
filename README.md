@@ -88,7 +88,7 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,124 | 🐛 196 | 🌐 Java | 📅 2026-10-21: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,123 | 🐛 196 | 🌐 Java | 📅 2026-10-22: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
@@ -102,7 +102,7 @@ The characteristics of each implementation are described.
 
 [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,655 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 
-[kevincobain2000/sentiment\_classifier](https://github.com/kevincobain2000/sentiment_classifier) ⭐ 170 | 🐛 0 | 🌐 OpenEdge ABL | 📅 2022-04-05: Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.
+[kevincobain2000/sentiment\_classifier](https://github.com/kevincobain2000/sentiment_classifier) ⭐ 170 | 🐛 1 | 🌐 OpenEdge ABL | 📅 2022-04-05: Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.
 
 [pedrobalage/SemevalAspectBasedSentimentAnalysis](https://github.com/pedrobalage/SemevalAspectBasedSentimentAnalysis) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2014-05-21: Aspect-Based, Supervised Machine Learning, Conditional Random Field.
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

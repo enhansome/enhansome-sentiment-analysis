@@ -88,7 +88,7 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,125 | 🐛 195 | 🌐 Java | 📅 2026-10-26: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,126 | 🐛 195 | 🌐 Java | 📅 2026-10-27: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
@@ -127,7 +127,7 @@ position in the social network to aide sentiment analysis. [\[paper\]](https://a
 
 [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer) ⚠️ Archived: Lexical, Dictionary-based.
 
-[7compass/sentimental](https://github.com/7compass/sentimental) ⭐ 466 | 🐛 5 | 🌐 Ruby | 📅 2019-05-10: Lexical, Dictionary-based.
+[7compass/sentimental](https://github.com/7compass/sentimental) ⭐ 465 | 🐛 5 | 🌐 Ruby | 📅 2019-05-10: Lexical, Dictionary-based.
 
 ### CSharp
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

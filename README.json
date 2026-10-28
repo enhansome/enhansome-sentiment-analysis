@@ -73,11 +73,11 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T20:52:37Z",
+                "last_commit": "2026-10-27T20:57:15Z",
                 "open_issues": 195,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10125,
+                "stars": 10126,
                 "topics": [
                   "named-entity-recognition",
                   "natural-language-processing",
@@ -391,7 +391,7 @@
                 "open_issues": 5,
                 "owner": "7compass",
                 "repo": "sentimental",
-                "stars": 466,
+                "stars": 465,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:33:49.003Z",
+    "last_updated": "2026-10-28T14:30:27.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

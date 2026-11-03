@@ -88,7 +88,7 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,128 | 🐛 196 | 🌐 Java | 📅 2026-11-02: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,127 | 🐛 194 | 🌐 Java | 📅 2026-11-03: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
@@ -121,7 +121,7 @@ position in the social network to aide sentiment analysis. [\[paper\]](https://a
 
 ### Golang
 
-[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,615 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
+[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,614 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
 
 ### Ruby
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

@@ -73,7 +73,7 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T08:01:33Z",
+                "last_commit": "2026-11-13T17:55:44Z",
                 "open_issues": 197,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
@@ -111,7 +111,7 @@
                 "open_issues": 8,
                 "owner": "vivekn",
                 "repo": "sentiment",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
@@ -262,7 +262,7 @@
                 "open_issues": 32,
                 "owner": "openai",
                 "repo": "generating-reviews-discovering-sentiment",
-                "stars": 1522,
+                "stars": 1523,
                 "topics": [
                   "paper"
                 ]
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:41:15.050Z",
+    "last_updated": "2026-11-14T14:30:43.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

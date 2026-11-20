@@ -80,7 +80,7 @@ The characteristics of each implementation are described.
 
 ### NodeJS
 
-[thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,679 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
+[thisandagain/sentiment](https://github.com/thisandagain/sentiment) ⭐ 2,678 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-18: Lexical, Dictionary-based, AFINN-based.
 
 [thinkroth/Sentimental](https://github.com/thinkroth/Sentimental) ⭐ 495 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-22 Lexical, Dictionary-based, AFINN-based.
 
@@ -88,19 +88,19 @@ The characteristics of each implementation are described.
 
 [LingPipe](http://alias-i.com/): Lexical, Corpus-based, Supervised Machine Learning
 
-[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,128 | 🐛 197 | 🌐 Java | 📅 2026-11-13: Supervised Machine Learning, Deep Learning
+[CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,129 | 🐛 197 | 🌐 Java | 📅 2026-11-13: Supervised Machine Learning, Deep Learning
 
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [\[paper\]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,104 | 🐛 58 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,103 | 🐛 58 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
 [vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 507 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
 [xiaohan2012/twitter-sent-dnn](https://github.com/xiaohan2012/twitter-sent-dnn) ⭐ 276 | 🐛 10 | 🌐 Python | 📅 2022-06-21: Supervised Machine Learning, Deep Learning, Convolutional Neural Network. [\[paper\]](http://phd.nal.co/papers/Kalchbrenner_DCNN_ACL14)
 
-[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,657 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
+[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) ⭐ 1,655 | 🐛 22 | 🌐 Python | 📅 2023-02-27: Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 
 [kevincobain2000/sentiment\_classifier](https://github.com/kevincobain2000/sentiment_classifier) ⭐ 170 | 🐛 1 | 🌐 OpenEdge ABL | 📅 2022-04-05: Supervised Machine Learning, Naive Bayes Classifier, Max Entropy Classifier, SentiWordNet.
 
@@ -121,7 +121,7 @@ position in the social network to aide sentiment analysis. [\[paper\]](https://a
 
 ### Golang
 
-[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,614 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
+[cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) ⭐ 282 | 🐛 4 | 🌐 Go | 📅 2020-06-17: Supervised Machine Learning, Naive Bayes Classifier. Based on [cdipaolo/goml](https://github.com/cdipaolo/goml) ⭐ 1,613 | 🐛 4 | 🌐 Go | 📅 2022-07-15.
 
 ### Ruby
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

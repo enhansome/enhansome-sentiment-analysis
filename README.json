@@ -391,7 +391,7 @@
                 "open_issues": 5,
                 "owner": "7compass",
                 "repo": "sentimental",
-                "stars": 465,
+                "stars": 466,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:19.918Z"
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:53:37.041Z",
+    "last_updated": "2026-11-27T17:39:02.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤 ",

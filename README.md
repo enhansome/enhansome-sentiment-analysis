@@ -94,7 +94,7 @@ The characteristics of each implementation are described.
 
 ### Python
 
-[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,105 | 🐛 59 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+[nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) ⭐ 5,106 | 🐛 59 | 🌐 Python | 📅 2026-03-02 sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [\[paper\]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
 [vivekn/sentiment](https://github.com/vivekn/sentiment) ⭐ 507 | 🐛 8 | 🌐 Python | 📅 2020-10-01: Supervised Machine Learning, Naive Bayes Classifier. [\[paper\]](https://arxiv.org/abs/1305.6143)
 
@@ -127,7 +127,7 @@ position in the social network to aide sentiment analysis. [\[paper\]](https://a
 
 [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer) ⚠️ Archived: Lexical, Dictionary-based.
 
-[7compass/sentimental](https://github.com/7compass/sentimental) ⭐ 465 | 🐛 5 | 🌐 Ruby | 📅 2019-05-10: Lexical, Dictionary-based.
+[7compass/sentimental](https://github.com/7compass/sentimental) ⭐ 466 | 🐛 5 | 🌐 Ruby | 📅 2019-05-10: Lexical, Dictionary-based.
 
 ### CSharp
 
@@ -157,4 +157,4 @@ Steps to contribute:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
